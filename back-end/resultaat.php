@@ -2,7 +2,7 @@
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
-$dbname = "fcmborijnland";
+$dbname = "schoolbezoek";
 $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 $mysqli = new mysqli("$dbhost", "$dbuser", "$dbpass", "$dbname");
         
