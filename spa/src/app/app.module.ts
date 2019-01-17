@@ -12,6 +12,7 @@ import { SpelersComponent } from './spelers/spelers.component';
 import { SelectieComponent } from './selectie/selectie.component';
 import { TeamComponent } from './team/team.component';
 import { WedstrijdComponent } from './wedstrijd/wedstrijd.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { WedstrijdComponent } from './wedstrijd/wedstrijd.component';
     SpelersComponent,
     SelectieComponent,
     TeamComponent,
-    WedstrijdComponent
+    WedstrijdComponent,
+    NavbarComponent
   ],
   imports:[
  CommonModule,
