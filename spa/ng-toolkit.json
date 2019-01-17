@@ -1,0 +1,8 @@
+{
+  "universal": {
+    "project": "spa",
+    "skipInstall": false,
+    "directory": ".",
+    "http": true
+  }
+}
